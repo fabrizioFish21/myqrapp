@@ -1,0 +1,2 @@
+# myqrapp
+generacionqr
